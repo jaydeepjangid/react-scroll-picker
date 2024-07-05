@@ -1,0 +1,28 @@
+{
+  "name": "react-scroll-picker",
+  "version": "1.0.0",
+  "description": "This is a scrollable picker made by jaydeep Jangid to select dates or anything you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zelta-Automations/react-scroll-picker-jaydeep.git"
+  },
+  "keywords": [
+    "scroll-picker",
+    "reactjs",
+    "nextjs",
+    "react-scroll-picker-jaydeep"
+  ],
+  "author": "Jaydeep Jangid",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Zelta-Automations/react-scroll-picker-jaydeep/issues"
+  },
+  "homepage": "https://github.com/Zelta-Automations/react-scroll-picker-jaydeep#readme",
+  "dependencies": {
+    "less": "^4.2.0"
+  }
+}
